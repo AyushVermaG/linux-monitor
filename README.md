@@ -1,6 +1,8 @@
 # ProcWatch
 
 Lightweight real-time Linux system monitor built with Python and the `/proc` filesystem.
+<img width="420" height="464" alt="image" src="https://github.com/user-attachments/assets/75cdc01c-1aaa-4cf1-ba8f-9422d95125d4" />
+
 
 ## Features
 
