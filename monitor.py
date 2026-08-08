@@ -6,7 +6,7 @@ memory = get_memory_usage()
 
 bar_length = 20
 filled = int(memory["percent"] / 100 * bar_length)
-bar = "█" * filled + "░" * (bar_length - filled)
+bar = "#" * filled + "-" * (bar_length - filled)
 
 print("Linux System Monitor")
 print("-" * 30)
