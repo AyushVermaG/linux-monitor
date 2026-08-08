@@ -10,7 +10,7 @@ Lightweight real-time Linux system monitor built with Python and the `/proc` fil
 - Memory usage tracking
 - Disk usage statistics
 - Top CPU-consuming processes
-- Auto-refreshing terminal dashboard
+- Auto-refreshing terminal dashboard (10-second interval)
 - Modular Python architecture
 
 ## Run
